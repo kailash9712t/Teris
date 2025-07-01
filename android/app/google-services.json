@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "604741284878",
+    "project_id": "chatapp-afad2",
+    "storage_bucket": "chatapp-afad2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:604741284878:android:f14a1fcbd846a5ffa4785f",
+        "android_client_info": {
+          "package_name": "com.example.tetris"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAXCJq41R7uuBh2-sqDD2uxeVAozGegdOM"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
